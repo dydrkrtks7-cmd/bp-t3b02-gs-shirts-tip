@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mokdong-shirts-note.program-school.online/sitemap.xml
-Sitemap: https://mokdong-shirts-note.program-school.online/sitemap-pages.xml
+Sitemap: https://gangseo-tip-zone.hardcoreroom.com/sitemap.xml
+Sitemap: https://gangseo-tip-zone.hardcoreroom.com/sitemap-pages.xml
